@@ -1,0 +1,9 @@
+.title {
+    color: white;
+    font-size: 3rem;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
